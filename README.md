@@ -1,5 +1,3 @@
-# group6_Support-Vector-Regression
-
 # Support Vector Regression (SVR): Predicting Medical Insurance Expenses
 
 **Group 6 · Regression Algorithms Exploration (mini-project)**
